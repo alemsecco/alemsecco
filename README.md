@@ -7,14 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alemsecco&theme=bear" />
-  </a>
-  <!-- spacer de 40px -->
-  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="40" height="1" alt="" />
-  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alemsecco&theme=bear" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemsecco&theme=bear&layout=compact&langs_count=8&card_width=320" />
-  </a>
 </p>
 
 ## Contact me:
