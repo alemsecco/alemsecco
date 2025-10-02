@@ -1,1 +1,1 @@
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemsecco)](https://github.com/anuraghazra/github-readme-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemsecco&theme=dark&show_icons=true)
