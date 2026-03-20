@@ -1,6 +1,6 @@
 # Hello, I'm Alex Secco!
 
-- Computer Science Undergraduate at PUCPR, Brazil (6/8)
+- Computer Science Undergraduate at PUCPR, Brazil (7/8)
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,mysql,nodejs,python" />
